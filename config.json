@@ -1,0 +1,10 @@
+{
+    "basefolder": "Programming",
+    "ignore": ["node_modules", "venv", ".git"],
+    "use_gitignore": true,
+    "folders": [
+        {
+            "path": "/home/hassan/programming/drive-syncer-video"
+        }
+    ]
+}
